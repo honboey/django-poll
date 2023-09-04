@@ -1,4 +1,4 @@
-#Django Poll
+# Django Poll
 
 This is my first Django project. It follows [the tutorial in the official Django documentation](https://docs.djangoproject.com/en/4.2/intro/tutorial01/).
 
